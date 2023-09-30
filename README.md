@@ -14,5 +14,5 @@
  <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/lidia-sarata-1925b11a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidia-sarata" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/lidia-sarata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidia-sarata" height="30" width="40" /></a>
 </p>
